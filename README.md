@@ -28,6 +28,8 @@ When the descending button is clicked, the wages are sorted from high to low bas
 When the Ascending button is clicked, the wages are arranged from high to low based on prices.
 # Application Information
 I developed this application during my internship at Train Payment Inc. (PAYGURU) from August 1st, 2023, to August 28th, 2023.
+# License
+This project is licensed under the MIT License. See the LICENSE.md file for details.
 # İmages
 ![Ekran görüntüsü 2023-08-29 153958](https://github.com/omerkilic-0/Card-List-APP_Starter-Level/assets/123635257/dcd6c0cd-9ec8-4440-8cd9-e69f0fbaba2b)
 ![Ekran görüntüsü 2023-08-29 154017](https://github.com/omerkilic-0/Card-List-APP_Starter-Level/assets/123635257/05d949e0-8671-4f1c-93a7-172a46d5d37a)
